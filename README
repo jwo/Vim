@@ -1,7 +1,0 @@
-My vim directory
-
-I'm linking these, so set it up like:
-
-    ln -s ~/vim/vimrc ~/.vimrc
-    ln -s ~/vim/gvimrc ~/.gvimrc
-    ln -s ~/vim/colors ~/.vim/colors
