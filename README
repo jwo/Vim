@@ -6,6 +6,7 @@ I'm linking these, so set it up like:
     ln -s ~/vim/plugin ~/.vim/plugin
     ln -s ~/vim/colors ~/.vim/colors
     ln -s ~/vim/autoload ~/.vim/autoload
+    ln -s ~/vim/doc ~/.vim/doc
     ln -s ~/vim/vimrc ~/.vimrc
     ln -s ~/vim/gvimrc ~/.gvimrc
 
