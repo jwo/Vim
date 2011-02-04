@@ -24,7 +24,6 @@ end
 " General *********************************************************************
 set anti " Antialias font
 
-"set transparency=15
 
 " Default size of window
 set columns=179 
