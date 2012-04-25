@@ -5,7 +5,7 @@ Contents
 --------
 
 # Rails.vim
-# Tim Pope's Pathohen
+# Tim Pope's Pathogen
 # Coffee Script formatter
 
 I'm linking these, so set it up like:
